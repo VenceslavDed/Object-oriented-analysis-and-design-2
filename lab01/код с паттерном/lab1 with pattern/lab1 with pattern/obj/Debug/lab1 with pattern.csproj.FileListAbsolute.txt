@@ -1,0 +1,10 @@
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\bin\Debug\lab1 with pattern.exe.config
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\bin\Debug\lab1 with pattern.exe
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\bin\Debug\lab1 with pattern.pdb
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.csproj.AssemblyReference.cache
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1_with_pattern.Properties.Resources.resources
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.csproj.GenerateResource.cache
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.csproj.CoreCompileInputs.cache
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.exe
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.pdb
+D:\ООАП 2\lab1\код с паттерном\lab1 with pattern\lab1 with pattern\obj\Debug\lab1 with pattern.exe.config
