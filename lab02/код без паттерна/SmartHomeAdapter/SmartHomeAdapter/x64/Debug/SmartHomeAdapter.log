@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\ООАП 2\lab2\код без паттерна\SmartHomeAdapter\SmartHomeAdapter\MainForm.h(141,31): warning C4566: character represented by universal-character-name '\u25B6' cannot be represented in the current code page (1251)
+  (compiling source file 'main.cpp')
+  
+  MainForm.cpp
+D:\ООАП 2\lab2\код без паттерна\SmartHomeAdapter\SmartHomeAdapter\MainForm.h(141,31): warning C4566: character represented by universal-character-name '\u25B6' cannot be represented in the current code page (1251)
+  (compiling source file 'MainForm.cpp')
+  
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SmartHomeAdapter.vcxproj -> D:\ООАП 2\lab2\код без паттерна\SmartHomeAdapter\x64\Debug\SmartHomeAdapter.exe

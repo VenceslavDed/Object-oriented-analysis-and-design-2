@@ -1,0 +1,2 @@
+D:\ООАП 2\lab2\код с паттерном\SmartHomeAdapter\SmartHomeAdapter\x64\Debug\SmartHomeAdapter.vcxproj.AssemblyReference.cache
+D:\ООАП 2\lab2\код без паттерна\SmartHomeAdapter\SmartHomeAdapter\x64\Debug\SmartHomeAdapter.vcxproj.AssemblyReference.cache

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|solutionrelative:SmartHomeAdapter\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|solutionrelative:SmartHomeAdapter\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\SmartHome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|solutionrelative:SmartHomeAdapter\\SmartHome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|solutionrelative:SmartHomeAdapter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{A3557F37-7DCD-FCD1-A87B-305AE828041A}|SmartHomeAdapter\\SmartHomeAdapter.vcxproj|solutionrelative:SmartHomeAdapter\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.cpp",
+              "RelativeDocumentMoniker": "SmartHomeAdapter\\MainForm.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.cpp",
+              "RelativeToolTip": "SmartHomeAdapter\\MainForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T22:12:39.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\main.cpp",
+              "RelativeDocumentMoniker": "SmartHomeAdapter\\main.cpp",
+              "ToolTip": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\main.cpp",
+              "RelativeToolTip": "SmartHomeAdapter\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T21:56:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h",
+              "RelativeDocumentMoniker": "SmartHomeAdapter\\MainForm.h",
+              "ToolTip": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h",
+              "RelativeToolTip": "SmartHomeAdapter\\MainForm.h",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T22:11:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHome.h",
+              "DocumentMoniker": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\SmartHome.h",
+              "RelativeDocumentMoniker": "SmartHomeAdapter\\SmartHome.h",
+              "ToolTip": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\SmartHome.h",
+              "RelativeToolTip": "SmartHomeAdapter\\SmartHome.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T21:56:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.h [Design]",
+              "DocumentMoniker": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0431\u0435\u0437 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u0430\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h",
+              "RelativeDocumentMoniker": "SmartHomeAdapter\\MainForm.h",
+              "ToolTip": "D:\\\u041E\u041E\u0410\u041F 2\\lab2\\\u043A\u043E\u0434 \u0441 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u043E\u043C\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h [Design]",
+              "RelativeToolTip": "..\\..\\\u043A\u043E\u0434 \u0441 \u043F\u0430\u0442\u0442\u0435\u0440\u043D\u043E\u043C\\SmartHomeAdapter\\SmartHomeAdapter\\MainForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T21:53:53.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
